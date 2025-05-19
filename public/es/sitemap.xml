@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/geo-di-lab/emerge-lessons/es/categories/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/geo-di-lab/emerge-lessons/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/geo-di-lab/emerge-lessons/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/geo-di-lab/emerge-lessons/es/categories/index.html" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/geo-di-lab/emerge-lessons/es/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/geo-di-lab/emerge-lessons/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/geo-di-lab/emerge-lessons/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/geo-di-lab/emerge-lessons/es/index.html" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/geo-di-lab/emerge-lessons/es/tags/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/geo-di-lab/emerge-lessons/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/geo-di-lab/emerge-lessons/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/geo-di-lab/emerge-lessons/es/tags/index.html" />
+  </url>
+</urlset>

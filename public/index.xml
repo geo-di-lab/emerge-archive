@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EMERGE Lessons</title>
+    <link>http://localhost:1313/geo-di-lab/emerge-lessons/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/geo-di-lab/emerge-lessons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foundational Concepts</title>
+      <link>http://localhost:1313/geo-di-lab/emerge-lessons/ch1/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geo-di-lab/emerge-lessons/ch1/index.html</guid>
+      <description>This chapter provides an introduction to GLOBE data, including how it’s collected, what it tells us, and how to analyze it.&#xA;Introduction to GLOBE DataAn overview of GLOBE Data</description>
+    </item>
+    <item>
+      <title>Explore the Data</title>
+      <link>http://localhost:1313/geo-di-lab/emerge-lessons/ch2/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geo-di-lab/emerge-lessons/ch2/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data from Satellites</title>
+      <link>http://localhost:1313/geo-di-lab/emerge-lessons/ch3/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geo-di-lab/emerge-lessons/ch3/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analyze the Data</title>
+      <link>http://localhost:1313/geo-di-lab/emerge-lessons/ch4/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geo-di-lab/emerge-lessons/ch4/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Science Communication</title>
+      <link>http://localhost:1313/geo-di-lab/emerge-lessons/ch5/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geo-di-lab/emerge-lessons/ch5/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
