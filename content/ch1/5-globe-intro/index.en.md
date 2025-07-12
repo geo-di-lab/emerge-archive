@@ -15,4 +15,3 @@ About the data:
 | **mosquito.geojson** | Mosquito Habitat Mapper data from 2017-2024 | [GLOBE API](https://www.globe.gov/globe-data/globe-api)
 | **landcover.geojson** | Land Cover data from 2017-2024 | [GLOBE API](https://www.globe.gov/globe-data/globe-api)
 
-{{% ipynb "1_5_globe_data.ipynb" %}}

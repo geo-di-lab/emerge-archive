@@ -57,11 +57,11 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "EMERGE Lessons \u003e  Foundational Concepts",
-    "content": "Versión en español Load the Data Click here to download the data folder: Download the Data\nAbout the data:\nFile Name Description Source mosquito.geojson Mosquito Habitat Mapper data from 2017-2024 GLOBE API landcover.geojson Land Cover data from 2017-2024 GLOBE API {{ % ipynb “1_5_globe_data.ipynb” % }}",
+    "content": "Versión en español Load the Data Click here to download the data folder: Download the Data\nAbout the data:\nFile Name Description Source mosquito.geojson Mosquito Habitat Mapper data from 2017-2024 GLOBE API landcover.geojson Land Cover data from 2017-2024 GLOBE API",
     "description": "An overview of GLOBE Data",
     "tags": [],
     "title": "Introduction to GLOBE Data",
-    "uri": "/geo-di-lab/emerge-lessons/ch1/3-globe-intro/index.html"
+    "uri": "/geo-di-lab/emerge-lessons/ch1/5-globe-intro/index.html"
   },
   {
     "breadcrumb": "EMERGE Lessons",
